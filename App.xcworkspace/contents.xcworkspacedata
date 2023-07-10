@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MovieApp/MovieApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MainApp/MainApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Provider/Provider.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NetworkKit/NetworkKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DesignKit/DesignKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
